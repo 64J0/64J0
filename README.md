@@ -1,6 +1,6 @@
 ### Olá, meu nome é Vinícius Gajo 👋
 
-Tenho 23 anos e sou apaixonado por tecnologia. Busco sempre me manter atualizado com as novidades e gosto bastante de estudar sempre que possível. Atualmente estou focado na Omnistack que é abordada no Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/) para melhorar minhas habilidades relacionadas ao desenvolvimento WEB FullStack e em assuntos relacionados à telecomunicação e provedores de internet. Nos momentos de lazer gosto de assistir filmes, séries ou animes e de jogar no computador (atualmente estou jogando apenas CS:GO).
+Tenho 23 anos e sou apaixonado por tecnologia. Busco sempre me manter atualizado com as novidades e gosto bastante de estudar sempre que possível. Atualmente estou focado na Omnistack que é abordada no Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/) para melhorar minhas habilidades relacionadas ao desenvolvimento WEB FullStack e em assuntos relacionados a telecomunicação e provedores de internet. Nos momentos de lazer gosto de assistir filmes, séries ou animes e de jogar no computador (atualmente estou jogando apenas CS:GO).
 
 ### Algumas informações sobre mim :man:
 
