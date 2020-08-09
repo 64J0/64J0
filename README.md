@@ -24,4 +24,7 @@ Tenho 23 anos e sou apaixonado por tecnologia. Busco sempre me manter atualizado
   * Ouro 3 :sweat_smile:
   
 ### Minhas redes sociais :earth_americas:
-[LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gajo-416121146/)
+
+* [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gajo-416121146/)
+* [GitHub](https://github.com/64J0)
+* [Blog](https://gaio.dev/)
