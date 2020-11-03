@@ -2,11 +2,14 @@
 
 Tenho 23 anos e sou apaixonado por tecnologia. Busco sempre me manter atualizado com as novidades e gosto bastante de estudar sempre que possível. Atualmente estou focado na Omnistack que é abordada no Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/) para melhorar minhas habilidades relacionadas ao desenvolvimento WEB FullStack e em assuntos relacionados a telecomunicação e provedores de internet. Nos momentos de lazer gosto de assistir filmes, séries ou animes e de jogar no computador (atualmente estou jogando apenas CS:GO).
 
+Comecei atuando como projetista mecânico no meu estágio na [Full Engenharia](http://fullengenharia.com.br/) onde em seguida dei os primeiros passos como desenvolvedor Fullstack web utilizando a Omnistack. Posteriormente atuei como Analista do NOC (*Network Operations Center*) na [Master Internet](https://www.soumaster.com.br/), onde pude aprender muito sobre telecomunicações e redes.
+
+Atualmente estou trabalhando como desenvolvedor Front-end júnior na [JMV Technology](https://jmvtechnology.com/).
+
 ### Algumas informações sobre mim :man:
 
 #### Trabalho :briefcase:
-  * Analista do NOC (*Network Operations Center*) da [Master Internet](https://www.soumaster.com.br/).
-  * Estagiário Dev Fullstack na [Full Engenharia](http://fullengenharia.com.br/). *Sim, tenho dois empregos :sweat_smile:*
+  * Desenvolvedor Front-end júnior na [JMV Technology](https://jmvtechnology.com/).
   
 #### Experiência nas linguagens/frameworks :computer: 
   * HTML5, CSS3 e JavaScript (Vanilla)
