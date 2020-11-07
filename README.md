@@ -28,6 +28,7 @@ Atualmente estou trabalhando como desenvolvedor Front-end júnior na [JMV Techno
   
 ### Minhas redes sociais :earth_americas:
 
-* [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gajo-416121146/)
+* [LinkedIn](https://www.linkedin.com/in/vinicius-gajo/)
 * [GitHub](https://github.com/64J0)
 * [Blog](https://gaio.dev/)
+* [Twitter](https://twitter.com/viniciusgajo)
