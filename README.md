@@ -16,12 +16,13 @@ Atualmente estou trabalhando como desenvolvedor Front-end júnior na [JMV Techno
   * C e C++
   * Matlab
   * Typescript
-  * Front-end: React JS e React Native
+  * Front-end: React JS, React Native, AngularJS e Vue.js
   * Back-end: NodeJS
   
 #### Estudos :notebook:
   * Engenharia Mecatrônica no CEFET-MG
   * GoStack Bootcamp
+  * Cursos variados do YouTube
   
 #### Patente no CS:GO :star: 
   * Ouro 3 :sweat_smile:
