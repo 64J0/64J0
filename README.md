@@ -1,33 +1,31 @@
-### Olá, meu nome é Vinícius Gajo 👋
+### Hi, my name is Vinícius Gajo 👋
 
-Tenho 23 anos e sou apaixonado por tecnologia. Busco sempre me manter atualizado com as novidades e gosto bastante de estudar sempre que possível. Atualmente estou focado na Omnistack que é abordada no Bootcamp GoStack da [Rocketseat](https://rocketseat.com.br/) para melhorar minhas habilidades relacionadas ao desenvolvimento WEB FullStack e em assuntos relacionados a telecomunicação e provedores de internet. Nos momentos de lazer gosto de assistir filmes, séries ou animes e de jogar no computador (atualmente estou jogando apenas CS:GO).
+[Read this in portuguese](https://github.com/64J0/64J0/blob/master/64J0-pt.md).
 
-Comecei atuando como projetista mecânico no meu estágio na [Full Engenharia](http://fullengenharia.com.br/) onde em seguida dei os primeiros passos como desenvolvedor Fullstack web utilizando a Omnistack. Posteriormente atuei como Analista do NOC (*Network Operations Center*) na [Master Internet](https://www.soumaster.com.br/), onde pude aprender muito sobre telecomunicações e redes.
+I'm 23 years old and passionate about technology, trying to be always updated studying a lot. Nowadays I'm focused in learning the tech stack called *Omnistack* that is taught in the GoStack Bootcamp of [Rocketseat](https://rocketseat.com.br/) to enhance my skills in FullStack WEB development. Other subjects that I like to study are related with telecomunications and internet providers. In my time off I usually watch movies, series and animes or play something in computer (CS:GO :heart:). 
 
-Atualmente estou trabalhando como desenvolvedor Front-end júnior na [JMV Technology](https://jmvtechnology.com/).
+In my career, I've started as a mechanical designer in a internship at [Full Engenharia](http://fullengenharia.com.br/) where then I took my first steps as a FullStack WEB developer using the *Omnistack* (ReactJS, Node.js and MongoDB as the database). Later I've worked as a NOC Analyst (*Network Operations Center*) at [Master Internet](https://www.soumaster.com.br/), where I could learn a lot about telecommunications and networks.
 
-### Algumas informações sobre mim :man:
+After some time I've started searching a development job and now I am currently working as a Junior Front-end developer at [JMV Technology] (https://jmvtechnology.com/).
 
-#### Trabalho :briefcase:
-  * Desenvolvedor Front-end júnior na [JMV Technology](https://jmvtechnology.com/).
-  
-#### Experiência nas linguagens/frameworks :computer: 
-  * HTML5, CSS3 e JavaScript (Vanilla)
-  * C e C++
+### Some info about me :man:
+
+### Work (present) :briefcase:
+ * Jr. Front-end WEB developer at [JMV Technology](https://jmvtechnology.com/).
+
+### Experience with those languages/frameworks :computer:
+  * C and C++
   * Matlab
-  * Typescript
-  * Front-end: React JS, React Native, AngularJS e Vue.js
+  * HTML5, CSS3 and JavaScript (Vanilla)
+  * Front-end: React JS, React Native, AngularJS and Vue.js
   * Back-end: NodeJS
+  * Typescript
+  * Jest
   
-#### Estudos :notebook:
-  * Engenharia Mecatrônica no CEFET-MG
-  * GoStack Bootcamp
-  * Cursos variados do YouTube
+#### University Graduation :notebook:
+  * Mechatronic Engineering at CEFET-MG
   
-#### Patente no CS:GO :star: 
-  * Ouro 3 :sweat_smile:
-  
-### Minhas redes sociais :earth_americas:
+### Other social networks :earth_americas:
 
 * [LinkedIn](https://www.linkedin.com/in/vinicius-gajo/)
 * [GitHub](https://github.com/64J0)
