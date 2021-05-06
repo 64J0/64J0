@@ -4,7 +4,7 @@
 
 ### About me:
 
-Mechatronic engineering student at CEFET-MG, software developer with experience in WEB (full-stack). I'm 23 years old and passionate about technology, always trying to learn new things and get updated by making contributions in open source projects. Actually living in Brazil.
+Mechatronic engineer graduated at CEFET-MG, software developer with experience in WEB (full-stack). I'm 23 years old and passionate about technology, always trying to learn new things and get updated by making contributions in open source projects. Actually living in Brazil.
 
 In my career, I've started as a mechanical designer in a internship at [Full Engenharia](http://fullengenharia.com.br/) where then I took my first steps as a FullStack WEB developer using the *Omnistack* (ReactJS in the front-end, Node.js in the back-end and MongoDB as the database). Later I've worked as a NOC Analyst (*Network Operations Center*) at [Master Internet](https://www.soumaster.com.br/), where I could learn a lot about telecommunications and networks (internet providers).
 
