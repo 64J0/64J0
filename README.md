@@ -10,7 +10,7 @@ In my career, I've started as a mechanical designer in a internship at [Full Eng
 
 After some time I've started searching a development job and now I am working as a Full-stack developer at [JMV Technology](https://jmvtechnology.com/), working in some very interesting projects using lots of techs. I started giving maintenance to projects written with AngularJS and React JS (class components). Then, I worked on the development of a platform in Vue JS 2 using Typescript, Vuex for state management and automated tests with Jest.
 
-Actually I'm also working on tasks focused on the back-end, using mainly Node.js to develop applications along with relational databases. Due to these experiences, I acquired knowledge in some techonologies of the streaming niche, citing some: [Wowza] (https://www.wowza.com/) and [FFmpeg] (https://ffmpeg.org/).
+Actually I'm also working on tasks focused on the back-end, using mainly Node.js to develop applications along with relational databases. Due to these experiences, I acquired knowledge in some techonologies of the streaming niche, citing some: [Wowza](https://www.wowza.com/) and [FFmpeg](https://ffmpeg.org/).
 
 ### Experience with those languages/frameworks :computer:
   * C and C++
