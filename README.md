@@ -8,7 +8,7 @@ Mechatronic engineer graduated at CEFET-MG, software developer with experience i
 
 In my career, I've started as a mechanical designer in a internship at [Full Engenharia](http://fullengenharia.com.br/) where then I took my first steps as a FullStack WEB developer using the *Omnistack* (ReactJS in the front-end, Node.js in the back-end and MongoDB as the database). Later I've worked as a NOC Analyst (*Network Operations Center*) at [Master Internet](https://www.soumaster.com.br/), where I could learn a lot about telecommunications and networks (internet providers).
 
-After some time I've started searching a development job and started working as a Full-stack developer at [JMV Technology](https://jmvtechnology.com/), working in some very interesting projects using lots of techs. At this place I had the oportunity to work with AngularJS (Angular 1), Vue 2 and React (class components) for the front-end and Node.js with Express and relational databases in the back-end.
+After some time I've started searching a development job and started working as a Full-stack developer at [JMV Technology](https://jmvtechnology.com/), working in some very interesting projects using lots of techs. At this place I had the opportunity to work with AngularJS (Angular 1), Vue 2 and React (class components) for the front-end and Node.js with Express and relational databases in the back-end.
 
 ### Experience with those languages/frameworks :computer:
   * C and C++
