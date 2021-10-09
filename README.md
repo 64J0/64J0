@@ -4,24 +4,19 @@
 
 ### About me:
 
-Mechatronic engineer graduated at CEFET-MG, software developer with experience in WEB (full-stack). I'm 23 years old and passionate about technology, always trying to learn new things and get updated by making contributions in open source projects. Actually living in Brazil.
+Mechatronic engineer graduated at CEFET-MG (2021), software developer with experience in WEB (full-stack). I'm passionate about technology, always trying to learn new things and get updated by making contributions to open source projects. Actually living in Minas Gerais, Brazil.
 
-In my career, I've started as a mechanical designer in a internship at [Full Engenharia](http://fullengenharia.com.br/) where then I took my first steps as a FullStack WEB developer using the *Omnistack* (ReactJS in the front-end, Node.js in the back-end and MongoDB as the database). Later I've worked as a NOC Analyst (*Network Operations Center*) at [Master Internet](https://www.soumaster.com.br/), where I could learn a lot about telecommunications and networks (internet providers).
+My first stack related to web development was based on the JavaScript world, namely, React JS for the frontend and Node.js for the backend. During a small period, I have also worked with Angular JS (Angular 1) and Vue.js for the frontend. Nowadays, I'm striving to learn more about the functional programming paradigm, so I'm studying and working with F# (.NET).
 
-After some time I've started searching a development job and started working as a Full-stack developer at [JMV Technology](https://jmvtechnology.com/), working in some very interesting projects using lots of techs. At this place I had the opportunity to work with AngularJS (Angular 1), Vue 2 and React (class components) for the front-end and Node.js with Express and relational databases in the back-end.
-
-### Experience with those languages/frameworks :computer:
-  * C and C++
-  * Matlab
+### Main experience with those languages/frameworks/tools :computer:
   * HTML5, CSS3 and JavaScript (Vanilla)
-  * Sass/Scss
-  * Eslint
-  * Front-end: React JS, React Native, Vue.js, Vuex and AngularJS
-  * Back-end: NodeJS
   * Typescript
-  * Jest for automated tests
+  * Sass/Scss
+  * Front-end: React JS, Fable (F#), Feliz (F#)
+  * Back-end: NodeJS, Saturn (F#)
+  * DB: Postgres, MongoDB
   
-#### University graduation :notebook:
+### University graduation :notebook:
   * Mechatronic Engineering
   
 ### Other social networks :earth_americas:
