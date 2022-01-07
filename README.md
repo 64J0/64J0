@@ -4,7 +4,7 @@
 
 ### About me:
 
-Mechatronic engineer graduated at CEFET-MG (2021), software developer with experience in WEB (full-stack). I'm passionate about technology, always trying to learn new things and get updated by making contributions to open source projects. Actually living in Minas Gerais, Brazil.
+Mechatronic engineer graduated at CEFET-MG (2021), software developer with experience in WEB (full-stack). I'm passionate about technology, always trying to learn new things and get updated by making contributions to open source projects. Currently living in Minas Gerais, Brazil.
 
 My first stack related to web development was based on the JavaScript world, namely, React JS for the frontend and Node.js for the backend. During a small period, I have also worked with Angular JS (Angular 1) and Vue.js for the frontend. Nowadays, I'm striving to learn more about the functional programming paradigm, so I'm studying and working with F# (.NET).
 
