@@ -2,6 +2,8 @@
 
 [Read this in portuguese](https://github.com/64J0/64J0/blob/master/64J0-pt.md).
 
+> Um homem se confunde, gradualmente, com a forma de seu destino; um homem é, afinal, suas circunstâncias. - O Aleph.
+
 ### About me:
 
 Mechatronic engineer graduated at CEFET-MG (2021), software developer with experience in WEB (full-stack). I'm passionate about technology, always trying to learn new things and get updated by making contributions to open source projects. Actually living in Minas Gerais, Brazil.
