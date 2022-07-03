@@ -119,7 +119,7 @@ Some tags to keep in mind when reading this configuration:
 #+begin_export latex
 \name{Vinícius Gajo Marques Oliveira}
 \photoR{2.8cm}{me.png}
-\tagline{Mechatronics Engineer | Full-stack Software Engineer | DevOps}
+\tagline{Mechatronics Engineer | Software & Infrastructure Engineer}
 #+end_export
 
 ** Personal Info :ignore:
@@ -128,7 +128,6 @@ Some tags to keep in mind when reading this configuration:
 \personalinfo{
   \homepage{https://gaio.dev}
   \email{vinigaio97@gmail.com}
-  \phone{+55 37 99929-1330}
   \location{Minas Gerais, BR}
   \github{64J0}
   \linkedin{vinicius-gajo}
@@ -136,35 +135,219 @@ Some tags to keep in mind when reading this configuration:
 \makecvheader
 #+end_export
 
-* CV Column One :ignore:
+* CV Column 1 :ignore:
 
 #+begin_export latex
 \begin{paracol}{2}
 #+end_export
-  
+
+** Personal Statement Developer :ignore:
+
+#+begin_export latex
+\begin{quote}
+``I am a Mechatronics Engineer with great passion for technology. Along the time I decided to focus in Web Development, playing with JavaScript/TypeScript in full-stack development. Later I got in touch with the functional paradigm using F# (.NET platform) and now I see the static types as one of the most useful tools of a programming language. With the type system we can make wrong state unrepresentable.''  
+\end{quote}
+#+end_export
+
+** Personal Statement Mechatronics Engineer :ignore:noexport:
+
+#+begin_export latex
+\begin{quote}
+``I am a Mechatronics Engineer with experience in different fields of engineering, like: Structural Mechanics, Networking system and Computational development.''  
+\end{quote}
+#+end_export
+
 ** Experience
-*** Software Engineer II :ignore:
-*** Software Engineer I :ignore:
-*** Full-stack Web Developer :ignore:
-*** Front-end Web Developer Jr :ignore:
-*** Network Operations Center Analyst :ignore:
-*** Mechanical Engineering Intern :ignore:
+*** Datarisk :ignore:
+{{{cvevent(Software Engineer II - DevSecOps leader, Datarisk, Mar 2022 --
+Ongoing, Home-Office)}}}
+
+Leading a small team focused on development operations and infrastructure,
+applying DevOps principles.
+
+{{{cvtag(Azure)}}}
+{{{cvtag(Terraform)}}}
+{{{cvtag(Git & Gitlab)}}}
+{{{cvtag(F\# (.NET))}}}
+{{{cvtag(Linux)}}}
+{{{cvtag(Kubernetes)}}}
+{{{cvtag(Docker)}}}
+
+{{{par-div}}}
+{{{cvevent(Software Engineer I, Datarisk, Jul 2021 -- Mar 2022, Home-Office)}}}
+
+Full-stack Web Developer working in a consultancy project dealing with F#,
+PostgreSQL and Docker.
+
+{{{cvtag(Full-stack web development)}}}
+{{{cvtag(F\# (.NET))}}}
+{{{cvtag(React.js)}}}
+{{{cvtag(Fable & Feliz)}}}
+{{{cvtag(SQL)}}}
+{{{cvtag(Docker)}}}
+{{{cvtag(PostgreSQL)}}}
+
+*** JMV Technology :ignore:
+
+{{{par-div}}}
+{{{cvevent(Full-stack Web Developer, JMV Technology, Feb 2021 -- Jul 2021,
+Divinopolis-MG)}}}
+
+Working in a team building a new multimedia platform from scratch using Vue.js,
+Node.js with Express and TypeScript. I was also doing some research about ffmpeg
+tool.
+
+{{{cvtag(TypeScript)}}}
+{{{cvtag(SASS/SCSS)}}}
+{{{cvtag(Full-stack)}}}
+{{{cvtag(Vue.js)}}}
+{{{cvtag(Back-end)}}}
+{{{cvtag(Node.js)}}}
+
+{{{par-div}}}
+{{{cvevent(Front-end Web Developer, JMV Technology, Nov 2020 -- Feb 2021,
+Divinopolis-MG)}}}
+
+Working in a multimedia streaming company. Initially I was involved only in
+Front-end JavaScript projects, giving maintenance to systems created with
+Angular JS and React (class components).
+
+{{{cvtag(JavaScript)}}}
+{{{cvtag(Front-end)}}}
+{{{cvtag(React.js)}}}
+{{{cvtag(Angular JS)}}}
+
+** Newpage :ignore:
+
+{{{new-page}}}
+
+** Experience (Cont.) :ignore:
+
+*** Master Internet :ignore:
+
+{{{par-div}}}
+{{{cvevent(NOC Analyst, Master Internet, May 2020 -- Nov 2020,
+Divinopolis-MG)}}}
+
+- Monitoring of network infrastructure assets to guarantee the SLA.
+- Analysis of the company's backbone, ensuring the operability of gateways,
+  switches and routers.
+- Wireless, FTTH and FC equipment analysis.
+- Service and support for B2B customers.
+
+{{{cvtag(Computer Networks)}}}
+{{{cvtag(Support)}}}
+
+*** Full Engenharia :ignore:
+
+{{{par-div}}}
+{{{cvevent(Mechanical Engineering Intern and Jr. Web Developer, Full Engenharia,
+Oct 2019 -- Oct 2020, Divinopolis-MG)}}}
+
+During this time I worked initially with mechanical design, creating 3D models
+using Autodesk Inventor, running structural static simulations with Ansys
+Workbench and creating 2D draws using AutoCAD.
+
+Later I started working in the development of a platform to manage company's
+projects, consisting of a Rest API on the back-end developed with JavaScript
+(Node.js and Express), and using MongoDB as the main database. In the front-end
+I decided to use React.js.
+
+{{{cvtag(AutoCAD)}}}
+{{{cvtag(Autodesk Inventor)}}}
+{{{cvtag(Ansys Workbench)}}}
+{{{cvtag(HTML 5)}}}
+{{{cvtag(CSS 3)}}}
+{{{cvtag(JavaScript)}}}
+{{{cvtag(React.js)}}}
+{{{cvtag(Node.js)}}}
+
 ** Projects
+
+*** Monitor :ignore:
+
+{{{par-div}}}
+{{{cvevent(Student monitor, CEFET-MG, Mar 2019 - Oct 2019, Divinopolis-MG)}}}
+
+In order to help students to understand some topics there are some monitor
+students. I was the monitor for two disciplines: Hydraulics & Pneumatics (theory
+and lab), and Metrology (theory and lab).
+
+{{{cvtag(Hydraulic systems)}}}
+{{{cvtag(Pneumatic systems)}}}
+{{{cvtag(Metrology)}}}
+
+*** Quebramato BAJA :ignore:
+
+{{{par-div}}}
+{{{cvevent(Quebramato BAJA, CEFET-MG, 2016 - 2018, Divinopolis-MG)}}}
+
+BAJA is a competition regulated by SAE (Society of Automotive Engineers) where
+teams compete by creating a single-seater off-road vehicle. In CEFET-MG, Campus
+V, we have the Quebramato BAJA team. There I worked in the following
+tasks/sub-systems:
+
+- Design of braking systems.
+- Electronics system.
+
+{{{cvtag(Braking systems)}}}
+{{{cvtag(Electronics)}}}
+{{{cvtag(Auto Engineering)}}}
+
 ** A day of my life :noexport:
 ** Publications :noexport:
-** Volunteering
-* CV Column Two :ignore:
+** Volunteering :noexport:
+* CV Column 2 :ignore:
 
 #+begin_export latex
 \switchcolumn
 #+end_export
   
 ** Skills
+
+{{{cvtag(Microsoft Azure)}}}
+{{{cvtag(Terraform)}}}
+{{{cvtag(Docker)}}}
+{{{cvtag(Kubernetes)}}}
+{{{cvtag(Gitlab)}}}
+{{{cvtag(F\# (.NET))}}}
+{{{cvtag(PostgreSQL)}}}
+{{{cvtag(Linux)}}}
+{{{cvtag(Functional programming)}}}
+
+{{{divider}}}
+
+{{{cvtag(HTML5)}}}
+{{{cvtag(CSS3)}}}
+{{{cvtag(JavaScript)}}}
+{{{cvtag(TypeScript)}}}
+{{{cvtag(JavaScript)}}}
+{{{cvtag(Git/Github)}}}
+{{{cvtag(Full-stack web dev)}}}
+{{{cvtag(React.js)}}}
+{{{cvtag(Node.js)}}}
+
+# {{{divider}}}
+
+# {{{cvtag(AutoCAD)}}}
+# {{{cvtag(Autodesk Inventor)}}}
+# {{{cvtag(Ansys Workbench)}}}
+
+# {{{divider}}}
+
+# {{{cvtag(Excel)}}}
+# {{{cvtag(Word)}}}
+
 ** Education
+
+{{{cvevent(Bachelor's degree in Mechatronics Engineering, CEFET-MG, 2015 -
+2021)}}}
+
+** Certificates
 ** My Life Philosophy :noexport:
-** Achievements
+** Achievements :noexport:
 ** Languages :noexport:
-** Referees
+** Referees :noexport:
 * Backmatter :ignore:
 
 #+begin_export latex
