@@ -5,14 +5,17 @@
 
 This file is used to generate my curriculum vitae built with Emacs + Org-mode +
 LaTeX. I decided to use Org-Mode and Latex because I'm striving to learn more
-about Emacs, ELisp and its ecosystem, so this is a natural path to follow.
+about Emacs, ELisp and its ecosystem, and LaTeX is a very complete system to
+create beautiful documents, so this is a natural path to follow.
 
 Some tags to keep in mind when reading this configuration:
 
 - The ~:noexport:~ tag allows trees and/or sub-trees to not be exported into the
-  pdf.
+  pdf. I tag all of my configuration subtrees with this tag and all of the
+  content that I do not want to export for a particular job.
 - The ~:ignore:~ tag allows the contents of a tree or sub-tree to be exported
-  without exporting the heading.
+  without exporting the heading. This is useful for giving the document a good
+  structure so that it is easy to work and understand it.
 
 ** References
 
@@ -117,9 +120,9 @@ Some tags to keep in mind when reading this configuration:
 ** Photo & Tagline :ignore:
 
 #+begin_export latex
-\name{Vinícius Gajo Marques Oliveira}
+\name{Vinícius Gajo M. Oliveira}
 \photoR{2.8cm}{me.png}
-\tagline{Mechatronics Engineer | Software & Infrastructure Engineer}
+\tagline{Mechatronics Engineer | Software \& Infrastructure Engineer}
 #+end_export
 
 ** Personal Info :ignore:
@@ -145,7 +148,7 @@ Some tags to keep in mind when reading this configuration:
 
 #+begin_export latex
 \begin{quote}
-``I am a Mechatronics Engineer with great passion for technology. Along the time I decided to focus in Web Development, playing with JavaScript/TypeScript in full-stack development. Later I got in touch with the functional paradigm using F# (.NET platform) and now I see the static types as one of the most useful tools of a programming language. With the type system we can make wrong state unrepresentable.''  
+``Mechatronics Engineer with great passion for technology. Full-stack Web Developer with DevOps and Infrastructure skills focused in Microsoft Azure.''  
 \end{quote}
 #+end_export
 
@@ -172,17 +175,19 @@ applying DevOps principles.
 {{{cvtag(Linux)}}}
 {{{cvtag(Kubernetes)}}}
 {{{cvtag(Docker)}}}
+{{{cvtag(DevOps)}}}
 
 {{{par-div}}}
 {{{cvevent(Software Engineer I, Datarisk, Jul 2021 -- Mar 2022, Home-Office)}}}
 
-Full-stack Web Developer working in a consultancy project dealing with F#,
-PostgreSQL and Docker.
+Full-stack Web Developer working in a consultancy project for a big brazilian
+company dealing with F#, PostgreSQL and Docker in order to serve machine
+learning (ML) models.
 
 {{{cvtag(Full-stack web development)}}}
 {{{cvtag(F\# (.NET))}}}
 {{{cvtag(React.js)}}}
-{{{cvtag(Fable & Feliz)}}}
+{{{cvtag(Fable \& Feliz)}}}
 {{{cvtag(SQL)}}}
 {{{cvtag(Docker)}}}
 {{{cvtag(PostgreSQL)}}}
@@ -327,6 +332,11 @@ tasks/sub-systems:
 {{{cvtag(React.js)}}}
 {{{cvtag(Node.js)}}}
 
+{{{divider}}}
+
+{{{cvtag(Emacs)}}}
+{{{cvtag(DevOps)}}}
+
 # {{{divider}}}
 
 # {{{cvtag(AutoCAD)}}}
@@ -344,6 +354,33 @@ tasks/sub-systems:
 2021)}}}
 
 ** Certificates
+
+{{{cvachievement(\faCertificate, Microsoft AZ-900, Foundational knowledge of
+cloud services and how those services are provided with Microsoft Azure.)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faCertificate, Microsoft DP-900, Knowledge of code data
+concepts and related Microsoft Azure data services.)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faCertificate, Microsoft AI-900, Foundational knowledge of
+machine learning (ML) and artificial intelligence (AI) concepts and related
+Microsoft Azure services.)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faTrophy, JavaScript (Intermediate), HackerRank)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faTrophy, SQL (Intermediate), HackerRank)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faTrophy, Bootcamp GoStack 11, Rocketseat)}}}
+
 ** My Life Philosophy :noexport:
 ** Achievements :noexport:
 ** Languages :noexport:
