@@ -111,6 +111,7 @@ Some tags to keep in mind when reading this configuration:
 #+MACRO: cvevent \cvevent{$1}{$2}{$3}{$4}
 #+MACRO: cvachievement \cvachievement{$1}{$2}{$3}{$4}
 #+MACRO: cvtag \cvtag{$1}
+#+MACRO: cvskill \cvskill{$1}{$2}
 #+MACRO: divider \divider
 #+MACRO: par-div \par\divider
 #+MACRO: new-page \newpage
@@ -383,7 +384,12 @@ Microsoft Azure services.)}}}
 
 ** My Life Philosophy :noexport:
 ** Achievements :noexport:
-** Languages :noexport:
+** Languages
+
+{{{cvskill(Portuguese, 5)}}}
+
+{{{cvskill(English, 4)}}}
+
 ** Referees :noexport:
 * Backmatter :ignore:
 
