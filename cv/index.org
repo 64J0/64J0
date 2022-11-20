@@ -157,7 +157,7 @@ Some tags to keep in mind when reading this configuration:
 
 #+begin_export latex
 \begin{quote}
-``I am a Mechatronics Engineer with experience in different fields of engineering, like: Structural Mechanics, Networking system and Computational development.''  
+``I am a Mechatronics Engineer with experience in different fields of engineering, like: Structural Mechanics, Networking system and Computer systems development.''  
 \end{quote}
 #+end_export
 
@@ -167,11 +167,11 @@ Some tags to keep in mind when reading this configuration:
 Ongoing, Home-Office)}}}
 
 Leading a small team focused on development operations and infrastructure,
-applying DevOps principles.
+applying DevSecOps and SRE principles.
 
 {{{cvtag(Azure)}}}
 {{{cvtag(Terraform)}}}
-{{{cvtag(Git & Gitlab)}}}
+{{{cvtag(Git, Gitlab and GitHub)}}}
 {{{cvtag(F\# (.NET))}}}
 {{{cvtag(Linux)}}}
 {{{cvtag(Kubernetes)}}}
@@ -328,7 +328,7 @@ tasks/sub-systems:
 {{{cvtag(JavaScript)}}}
 {{{cvtag(TypeScript)}}}
 {{{cvtag(JavaScript)}}}
-{{{cvtag(Git/Github)}}}
+{{{cvtag(Git/GitHub)}}}
 {{{cvtag(Full-stack web dev)}}}
 {{{cvtag(React.js)}}}
 {{{cvtag(Node.js)}}}
@@ -336,7 +336,10 @@ tasks/sub-systems:
 {{{divider}}}
 
 {{{cvtag(Emacs)}}}
-{{{cvtag(DevOps)}}}
+{{{cvtag(DevOps/DevSecOps)}}}
+{{{cvtag(SRE)}}}
+{{{cvtag(Cloud computing)}}}
+{{{cvtag(Python)}}}
 
 # {{{divider}}}
 
@@ -369,6 +372,15 @@ concepts and related Microsoft Azure data services.)}}}
 {{{cvachievement(\faCertificate, Microsoft AI-900, Foundational knowledge of
 machine learning (ML) and artificial intelligence (AI) concepts and related
 Microsoft Azure services.)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faCertificate, Microsoft SC-900, Fundamental knowledge in
+security, compliance and identity in Azure and Microsoft 365.)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faTrophy, Practical Ethical Hacking, TCM Security)}}}
 
 {{{divider}}}
 
