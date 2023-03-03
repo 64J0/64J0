@@ -380,7 +380,7 @@ security, compliance and identity in Azure and Microsoft 365.)}}}
 
 {{{divider}}}
 
-{{{cvachievement(\faTrophy, Practical Ethical Hacking, TCM Security)}}}
+{{{cvachievement(\faCertificate, Coursera, Machine Learning Specialization)}}}
 
 {{{divider}}}
 
@@ -393,6 +393,14 @@ security, compliance and identity in Azure and Microsoft 365.)}}}
 {{{divider}}}
 
 {{{cvachievement(\faTrophy, Bootcamp GoStack 11, Rocketseat)}}}
+
+{{{divider}}}
+
+{{{cvachievement(\faTrophy, Bootcamp de Formação SRE, ElvenWorks)}}}
+
+# {{{divider}}}
+
+# {{{cvachievement(\faTrophy, Practical Ethical Hacking, TCM Security)}}}
 
 ** My Life Philosophy :noexport:
 ** Achievements :noexport:
