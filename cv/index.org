@@ -49,10 +49,10 @@ Some tags to keep in mind when reading this configuration:
   \\definecolor{PastelRed}{HTML}{8F0D0D}
   \\definecolor{GoldenEarth}{HTML}{E7D192}
   \\colorlet{name}{black}
-  \\colorlet{tagline}{PastelRed}
-  \\colorlet{heading}{DarkPastelRed}
-  \\colorlet{headingrule}{GoldenEarth}
-  \\colorlet{subheading}{PastelRed}
+  \\colorlet{tagline}{black}
+  \\colorlet{heading}{black}
+  \\colorlet{headingrule}{black}
+  \\colorlet{subheading}{black}
   \\colorlet{accent}{PastelRed}
   \\colorlet{emphasis}{SlateGrey}
   \\colorlet{body}{LightGrey}
@@ -191,6 +191,7 @@ learning (ML) models.
 {{{cvtag(Fable \& Feliz)}}}
 {{{cvtag(SQL)}}}
 {{{cvtag(Docker)}}}
+{{{cvtag(SQL)}}}
 {{{cvtag(PostgreSQL)}}}
 
 *** JMV Technology :ignore:
@@ -272,7 +273,6 @@ I decided to use React.js.
 
 *** Monitor :ignore:
 
-{{{par-div}}}
 {{{cvevent(Student monitor, CEFET-MG, Mar 2019 - Oct 2019, Divinopolis-MG)}}}
 
 In order to help students to understand some topics there are some monitor
@@ -315,10 +315,11 @@ tasks/sub-systems:
 {{{cvtag(Terraform)}}}
 {{{cvtag(Docker)}}}
 {{{cvtag(Kubernetes)}}}
-{{{cvtag(Gitlab)}}}
+{{{cvtag(GitHub)}}}
 {{{cvtag(F\# (.NET))}}}
-{{{cvtag(PostgreSQL)}}}
 {{{cvtag(Linux)}}}
+{{{cvtag(PostgreSQL)}}}
+{{{cvtag(Shell)}}}
 {{{cvtag(Functional programming)}}}
 
 {{{divider}}}
@@ -327,11 +328,12 @@ tasks/sub-systems:
 {{{cvtag(CSS3)}}}
 {{{cvtag(JavaScript)}}}
 {{{cvtag(TypeScript)}}}
-{{{cvtag(JavaScript)}}}
-{{{cvtag(Git/GitHub)}}}
+{{{cvtag(Git)}}}
+{{{cvtag(Gitlab)}}}
 {{{cvtag(Full-stack web dev)}}}
 {{{cvtag(React.js)}}}
 {{{cvtag(Node.js)}}}
+{{{cvtag(SQL)}}}
 
 {{{divider}}}
 
