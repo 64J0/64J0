@@ -356,7 +356,10 @@ tasks/sub-systems:
 
 ** Education
 
-{{{cvevent(Bachelor's degree in Mechatronics Engineering, CEFET-MG, 2015 -
+{{{cvevent(Postgraduate degree in Software Engineering and Architecture, FIA,
+2023 - 2025)}}}
+
+{{{cvevent(Bachelor degree in Mechatronics Engineering, CEFET-MG, 2015 -
 2021)}}}
 
 ** Certificates
