@@ -163,8 +163,25 @@ Some tags to keep in mind when reading this configuration:
 
 ** Experience
 *** Datarisk :ignore:
-{{{cvevent(Software Engineer II - DevSecOps leader, Datarisk, Mar 2022 --
+{{{cvevent(Software Engineer II - MLOps product, Datarisk, Jul 2023 --
 Ongoing, Home-Office)}}}
+
+Back to software development, although still taking care of DevOps and other
+minor infra/security topics. Now working in the development of a MLOps
+platform/product.
+
+{{{cvtag(Azure)}}}
+{{{cvtag(Git and GitHub)}}}
+{{{cvtag(F\# (.NET))}}}
+{{{cvtag(CI/CD: GitHub Actions)}}}
+{{{cvtag(Linux)}}}
+{{{cvtag(Kubernetes)}}}
+{{{cvtag(Docker)}}}
+{{{cvtag(DevOps)}}}
+
+{{{par-div}}}
+{{{cvevent(Software Engineer II - DevSecOps leader, Datarisk, Mar 2022 --
+Jul 2023, Home-Office)}}}
 
 Leading a small team focused on development operations and infrastructure,
 applying DevSecOps and SRE principles.
@@ -211,6 +228,10 @@ tool.
 {{{cvtag(Back-end)}}}
 {{{cvtag(Node.js)}}}
 
+# ** Newpage :ignore:
+
+# {{{new-page}}}
+
 {{{par-div}}}
 {{{cvevent(Front-end Web Developer, JMV Technology, Nov 2020 -- Feb 2021,
 Divinopolis-MG)}}}
@@ -223,10 +244,6 @@ Angular JS and React (class components).
 {{{cvtag(Front-end)}}}
 {{{cvtag(React.js)}}}
 {{{cvtag(Angular JS)}}}
-
-** Newpage :ignore:
-
-{{{new-page}}}
 
 ** Experience (Cont.) :ignore:
 
