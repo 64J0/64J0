@@ -27,6 +27,8 @@ Why F#? Because:
 * Powerful type system (make illegal states unrepresentable - [Effective ML Revisited](https://blog.janestreet.com/effective-ml-revisited/));
 * Decent performance ([F# for Performance-Critical Code, by Matthew Crews](https://www.youtube.com/watch?v=NZ5Lwzrdoe8&ab_channel=JetBrains)).
 
+If you'd like to know more about F#'s history, check [The Early History of F#](https://fsharp.org/history/hopl-final/hopl-fsharp.pdf) from Don Syme.
+
 I'm passionate about technology, engineering, classical philosophy and
 theology. And when not studying about these subjects, I try to contribute to the
 open-source community (if you'd like to start contributing to FOSS projects and
