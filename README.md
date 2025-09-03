@@ -1,10 +1,10 @@
 ### Hi, my name is Vinícius Gajo 👋
 
-> Searching for the Truth, the Beauty and the Goodness.
+> Searching for the Truth, the Beauty, the Goodness and finally εὐδαιμονία.
 
 ### About me:
 
-Mechatronics engineer graduated at CEFET-MG (bachelor, 2021), and post-graduated
+Mechatronics engineer graduated at CEFET-MG (Bachelor, 2021), and post-graduated
 on Software Engineering and Architecture from FIA Business School (Lato Sensu,
 2024). I'm actually a software engineer with experience in WEB development
 (full-stack), functional programming, a bit of security and networks, cloud
@@ -30,10 +30,8 @@ Why F#? Because:
 If you'd like to know more about F#'s history, check [The Early History of F#](https://fsharp.org/history/hopl-final/hopl-fsharp.pdf) from Don Syme.
 
 I'm passionate about technology, engineering, classical philosophy and
-theology. And when not studying about these subjects, I try to contribute to the
-open-source community (if you'd like to start contributing to FOSS projects and
-you're feeling lost, I wrote [this article](https://gaio.dev/posts/2022-09-18-foss-contributions) that could be
-useful).
+theology. And when not studying about these subjects, I try to contribute to
+open-source projects.
 
 Actually living at Minas Gerais, Brazil.
 
