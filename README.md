@@ -39,3 +39,4 @@ Actually living at Minas Gerais, Brazil.
 
 * [LinkedIn](https://www.linkedin.com/in/vinicius-gajo/)
 * [Blog](https://gaio.dev/)
+* [GoodReads](https://www.goodreads.com/user/show/188314630-vin-cius-gajo)
