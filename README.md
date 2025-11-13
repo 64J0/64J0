@@ -1,23 +1,12 @@
-### Hi, my name is Vinícius Gajo 👋
-
-> Searching for the Truth, the Beauty, the Goodness and finally εὐδαιμονία.
+> Searching for the Truth, the Beauty, the Goodness and ultimately, εὐδαιμονία.
 
 ### About me:
 
-Mechatronics engineer graduated at CEFET-MG (Bachelor, 2021), and post-graduated
-on Software Engineering and Architecture from FIA Business School (Lato Sensu,
-2024). I'm actually a software engineer with experience in WEB development
-(full-stack), functional programming, a bit of security and networks, cloud
-infrastructure and DevOps/SRE.
+I'm a Mechatronics Engineer (CEFET-MG, 2021) with a postgraduate degree in Software Engineering and Architecture (FIA Business School, 2024).
 
-Other than straight software engineering (IC), for some time I worked leading a
-small DevSecOps team, responsible for the cloud infrastructure, automations,
-CI/CD, reliability, finops, etc, at a startup. There I also needed to make some
-short presentations in order to enhance the security culture inside the
-company. Those were called "Sec Talks".
+Currently, I work as a Software Engineer focused on functional programming, web development, distributed systems and cloud infrastructure. I enjoy building robust, secure and maintainable systems using F# and .NET, combining solid engineering with elegant design.
 
-Nowadays, I'm working most using the functional programming paradigm, leveraging
-F# (.NET platform) and SQL to solve real world problems.
+Beyond individual contribution, I’ve also led a small DevSecOps team, responsible for cloud infrastructure, automation, CI/CD, reliability, and FinOps at a startup. There, I also gave short presentations to promote security awareness within the company — sessions we called “Sec Talks.”
 
 Why F#? Because:
 
@@ -29,11 +18,7 @@ Why F#? Because:
 
 If you'd like to know more about F#'s history, check [The Early History of F#](https://fsharp.org/history/hopl-final/hopl-fsharp.pdf) from Don Syme.
 
-I'm passionate about technology, engineering, classical philosophy and
-theology. And when not studying about these subjects, I try to contribute to
-open-source projects.
-
-Actually living at Minas Gerais, Brazil.
+I'm passionate about technology, engineering, classical philosophy and theology. When not studying those topics, I enjoy contributing to open-source projects.
 
 ### Other social networks :earth_americas:
 
