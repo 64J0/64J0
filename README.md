@@ -1,6 +1,6 @@
 > Searching for the Truth, the Beauty, the Goodness and ultimately, εὐδαιμονία.
 
-### About me:
+### About me
 
 I'm a Mechatronics Engineer (CEFET-MG, 2021) with a postgraduate degree in Software Engineering and Architecture (FIA Business School, 2024).
 
@@ -10,7 +10,7 @@ Beyond individual contribution, I’ve also led a small DevSecOps team, responsi
 
 Why F#? Because:
 
-* There's a strong company backing it (Microsoft); 
+* There's a strong company backing it (Microsoft);
 * It's built on top of a solid platform that is already battle proved (.NET), and it's evolving, constantly being updated and enhanced;
 * Great ecosystem (tools and people);
 * Powerful type system (make illegal states unrepresentable - [Effective ML Revisited](https://blog.janestreet.com/effective-ml-revisited/));
@@ -25,3 +25,7 @@ I'm passionate about technology, engineering, classical philosophy and theology.
 * [LinkedIn](https://www.linkedin.com/in/vinicius-gajo/)
 * [Blog](https://gaio.dev/)
 * [GoodReads](https://www.goodreads.com/user/show/188314630-vin-cius-gajo)
+* [Exercism](https://exercism.org/profiles/64J0)
+* [HackerRank](https://www.hackerrank.com/V64J0)
+* [LeetCode](https://leetcode.com/64J0/)
+* [TryHackMe](https://tryhackme.com/p/64J0)
